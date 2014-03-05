@@ -1,0 +1,15 @@
+{
+  "name": "InstantPrototyper",
+  "version": "0.0.1",
+  "description": "Brackets extension to prototype Cordova/Phonegap applications",
+  "main": "../main.js",
+  "dependencies": {
+    "qrcode-js": "~0.0.2",
+    "socket.io": "~0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "Martin Naumann (AVGP)",
+  "license": "MIT"
+}
