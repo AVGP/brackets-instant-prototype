@@ -60,7 +60,6 @@ define(function (require, exports, module) {
 
         // Call all the helper functions in order
         chain(connect, loadSimpleDomain, startServer);
-        window.alert("BOOM");
     }
 
     // Function to run when the menu item is clicked
