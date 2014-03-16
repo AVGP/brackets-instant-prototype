@@ -33,7 +33,6 @@
   }
 
   function startServer(path, callback) {
-    console.log("PATH: ", path);
     basePath = path;
     app.listen(8080);
     getIP(callback);
